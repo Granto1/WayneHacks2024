@@ -1,6 +1,6 @@
 SignL!
 
-Video Presentation Link:
+Video Presentation Link: https://youtu.be/ImAWXs9zWW8
 
 SignL is a simple, easy to use app that assists users in learning fundamental American Sign Language. 
 The app contains flashcards, multiple choice, and a practice option with a live video feed to guide users through the alphabet in ASL.
