@@ -1,7 +1,7 @@
 SignL!
 1st Place at WayneHacks 2024!
 
-Devpost Link: https://devpost.com/software/signl-d67hb8
+Devpost Link: https://devpost.com/software/signl-d67hb8  
 Video Presentation Link: https://youtu.be/ImAWXs9zWW8
 
 SignL is a simple, easy-to-use app that assists users in learning fundamental American Sign Language. 
